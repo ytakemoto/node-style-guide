@@ -1,5 +1,7 @@
 # Node.js Style Guide
 
+#日本語訳もあります。[こちらを参照下さい](http://popkirby.github.io/contents/nodeguide/style.html)
+
 This is a guide for writing consistent and aesthetically pleasing node.js code.
 It is inspired by what is popular within the community, and flavored with some
 personal opinions.
